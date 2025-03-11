@@ -1,0 +1,12 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Good old snake game made with vanillajs to show off my javascript and dom manipulation skills",
+  "main": "snake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
